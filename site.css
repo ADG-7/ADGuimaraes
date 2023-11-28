@@ -1,0 +1,144 @@
+div{background-color:rgb(97, 122, 206);border-top: 100%;}
+
+.ancor{color: black; display: inline-block; margin-left: 20%; font-size: 130%;}
+
+.dima{width: 5%; margin-left: 47% ;}
+
+.dima2{width: 4%; ;}
+
+a{color: white;}
+
+p{color: white;text-align: left;}
+
+body{ font-family: 'Ephesis', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Sue Ellen Francisco', cursive;
+background-color: rgb(235, 227, 227);}
+
+.input-padrao{display:inline block; height:30%; width: 40% ; text-align: left; font-size: 20px; border-radius: 30px; margin: 53px 0 0 350px ;}
+
+.sla{display: inline-block; float: left;}
+
+.logo{width: 200px; float: right; }
+
+.logo2{width: 200px; float: left; }
+
+.p{text-align: center ; color: rgb(0, 2, 119); font-size: 300%; float: none; margin-top: 5% ;}
+
+.paragrafo{text-align: center; color: rgb(0, 2, 119); font-size: 800%; margin-top: 2%; margin-left: 12%;}
+
+.paragrafo2{text-align: center; color: rgb(0, 2, 119); font-size: 800%; margin-top: 2%; margin-left: 14%;}
+
+
+.imagema{width: 30%;float:right;  margin-top: 3%; ;}
+
+.imageme{width: 30%; margin-top: 3%; float: left;}
+
+.imagem{width: 30%;float:right; margin-top: 15%; }
+
+.imagem3{float: left; margin-top: 10%; width: 30%; margin-left: 3%;}
+
+.imagem4{float: right; margin-top: 23%; width: 30%; margin-right: 3%;}
+
+.imagem5{float: left; margin-top: 5%; width: 30%; margin-left: 3%;}
+
+.imagem6{float: right; margin-top: 14%; width: 30%; margin-right: 3%;}
+
+.imagem7{float: left; margin-top: 15%; width: 30%; margin-left: 3%;}
+
+.imagem8{float: right; margin-top: 12%; width: 20%; margin-right: 5%;}
+
+.imagem2{width: 30%;float:left; margin-top: 2%; margin-left: 3%;}   
+
+.itens{float: left; margin-top: 3%; margin-left: 3%;}
+
+.contatosp{ color: black; float: none; text-align: center; font-size: 400%; padding-top:20% ;}
+
+button{margin-left: 23%; margin-top: 5% ; float: none; background-color:rgb(0, 2, 119)  ; font-size:390%; border-radius: 20%;  }
+
+                
+
+
+
+
+
+form {
+    width: 50%;
+    margin: 0 auto;
+} 
+.pagamento {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+
+select {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 16px;
+}
+
+.button {
+    padding: 15px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; 
+    
+}
+
+.deb {
+    text-align: center;
+    font-size: 50p;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.h1{
+    color: #333;
+    font-size: 200%;
+    text-align: center;
+}
+
+form {
+    max-width: 400px;
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.opcao {
+    display: none;
+}
+
+button {
+    background-color: #4c5baf;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4c5baf;
+}
+
+.cr7{width: 40%; margin-left: 30%;}
